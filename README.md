@@ -1,2 +1,2 @@
-# ktzouvalidis.github.io
+# ktzouvalidis.com
 My portfolio!
